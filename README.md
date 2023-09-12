@@ -1,8 +1,8 @@
 # KR-Games
 
-Laboratory projects for the Artificial Intelligence course, Knowledge Representation part, taken in the 2nd year at the Faculty of Mathematics and Computer Science, University of Bucharest. The course's teacher was Florentina Hristea, and the laboratory teacher, Irina Ciocan.
+Individual laboratory projects for the Artificial Intelligence course, Knowledge Representation part, taken in the 2nd year at the Faculty of Mathematics and Computer Science, University of Bucharest. The course's teacher was Florentina Hristea, and the laboratory teacher, Irina Ciocan.
 
-The main goal of the projects was to use the **Alpha-beta pruning** and the **Minimax** algorithms.
+The projects make use of the **Alpha-beta pruning** and the **Minimax** algorithms.
 
 The Modified Tic Tac Toe game is different from the basic Tic Tac Toe game in the following ways:
 - the game table can have different dimensions besides 3x3
