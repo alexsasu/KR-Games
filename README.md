@@ -1,6 +1,6 @@
 # KR-Games
 
-Individual laboratory projects for the Artificial Intelligence course, Knowledge Representation part, taken in the 2nd year at the Faculty of Mathematics and Computer Science, University of Bucharest. The course's teacher was Florentina Hristea, and the laboratory teacher, Irina Ciocan.
+Individual laboratory projects for the Artificial Intelligence course, taken in the 2nd year at the Faculty of Mathematics and Computer Science, University of Bucharest.
 
 The projects make use of the **Alpha-beta pruning** and the **Minimax** algorithms.
 
